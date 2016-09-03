@@ -1,0 +1,34 @@
+
+.main-header{
+    background-color: #2f405a;
+   /* height: 60px;*/
+}
+
+.main-header a {
+    color: #ffffff!important;
+}
+
+.main-header li a:hover {
+    color: #777!important;
+}
+.open a {
+    color: #777!important;
+}
+.dropdown-menu{
+    width: 100px!important;
+}
+
+.main-sidebar{
+    background-color: #f2f2f2!important;
+}
+
+.sidebar-menu li{
+    border-bottom: solid 1px #cacaca;
+}
+.sidebar-menu li a{
+    color: #333!important;
+}
+
+.sidebar-collapse .sidebar-menu li span {
+    background-color: #f2f2f2!important;
+}
